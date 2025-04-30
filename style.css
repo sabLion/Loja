@@ -34,7 +34,7 @@
     /* Estilo das imagens dos produtos */
     .card img {
     width: 100%;
-    height: 150px;
+    height: 250px;
     object-fit: cover;
     }
     /* Estilo dos botões dos produtos */
